@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    background-color: #e9f2eb;
+    height: 100%;
+    padding-bottom: 0;
+    overflow: hidden;
+    padding-top:10vh ;
+     min-width: none;
+     min-height: 100vh;
+}
+body h4{
+    padding-left: 2vh;
+    padding-top: 3vh;
+}
+body h1{
+    padding-left: 2vh;
+    padding-top: 3vh;
+    filter: drop-shadow(3px 3px 4px black);
+}
+body p{
+    flex: 1;
+  padding: 20px;
+  line-height: 1.6;
+}

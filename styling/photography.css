@@ -1,0 +1,39 @@
+
+main{
+    padding-top: 10vh;
+    background-image: url("images/photographyimage.jpg");
+    background-size: cover;
+    color: white;
+    background-position: center;
+}
+h1{
+    padding-left: 2vh;
+}
+body p{
+    flex: 1;
+  padding: 20px;
+  line-height: 1.6;
+}
+ h3{
+  padding-left: 3vh;
+}
+ul li{
+    padding-left: 3vh;
+    list-style-type: circle !important;
+}
+table{
+    border: 2px solid rgb(248, 243, 243);
+    margin-left: 3vh;
+    margin-right:1vh ;
+    line-height: 25px;
+    width: auto;
+}
+table td {
+    padding-right: 5%;
+}
+h2{
+    padding-left: 2vh;
+}
+.text{
+    z-index: 2;
+}

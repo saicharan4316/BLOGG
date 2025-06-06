@@ -1,0 +1,25 @@
+
+    main{
+    padding-top: 10vh;
+     background-image: url("images/aiml.jpg");
+     background-position: center;
+     background-size: cover;
+     min-width: none;
+     min-height: 100vh;
+     color: white;
+}
+h1{
+    padding-left: 2vh;
+}
+body p{
+    flex: 1;
+  padding: 20px;
+  line-height: 1.6;
+}
+ h3{
+  padding-left: 3vh;
+}
+main ul li{
+    padding-left: 3vh;
+    list-style-type: circle !important;
+}
