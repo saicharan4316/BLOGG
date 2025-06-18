@@ -30,4 +30,4 @@ app.get("/photography",(req,res)=>{
 app.get("/fake_products",(req,res)=>{
     res.render("fake_products")
 })
-app.listen(port,()=>console.log(`server running on port ${port}`))
+app.listen(port,()=>{})
