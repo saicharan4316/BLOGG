@@ -1,6 +1,6 @@
 import express from 'express';
 const app=express();
-let port=5500;
+let port=process.env.PORT || 5500;
 app.set("view engine", "ejs");
 app.use(express.static("styling"));
 app.get("",(req,res)=>{
